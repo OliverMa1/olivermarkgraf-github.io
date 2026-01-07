@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Kaiserslautern-Landau, 2026 (expected)
+* M.S. in Computer Science, University of Kaiserslautern-Landau, 2020
+* B.S. in Computer Science, University of Kaiserslautern-Landau, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Amazon Applied Scientist Internship
+  * Supervisor: Benjamin Kiesl-Reiter
+* Summer 2022: Amazon Applied Scientist Internship
+  * Supervisor: Rupak Majumdar, Bruno Dutertre
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Engagement
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reviewer for ATVA (2022), ICALP (2023), LICS, CAV, POPL (2024), CAV (2025)
+* PC member Artifact Evaluation CAV (2024)
+* Member in the Admission Committee for BSc and MSc of Computer Science (2021-2023)
+* Certified First Aider (Workplace)
+
+
+
+Grant Experience
+======
+* ERC Grant LASD (No. 101089343) Coordinator Contact (administrative coordination; PI: Prof. Anthony W. Lin, University of Kaiserslautern Landau)
 
 Publications
 ======
@@ -59,6 +54,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

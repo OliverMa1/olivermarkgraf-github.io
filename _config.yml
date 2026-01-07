@@ -23,7 +23,7 @@ repository               : "OliverMa1/olivermarkgraf-github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Oliver Markgraf"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
@@ -217,7 +217,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
@@ -251,7 +251,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
