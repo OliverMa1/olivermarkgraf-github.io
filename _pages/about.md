@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student at the University of Kaierslautern-Landau, Germany. I am advised by Professor Anthony W. Lin. 
+I am a Ph.D student at the University of Kaiserslautern-Landau, Germany. I am advised by Professor Anthony W. Lin. 
 
 I work on formal methods and automated reasoning, with a primary focus on SMT solving and the theory of strings. 
 A central part of my work is the design, implementation, and engineering of practical systems that turn theoretical ideas into usable tools.
